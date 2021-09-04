@@ -13,7 +13,7 @@ Shell: zsh
 Pronouns: He/Him
 Age: 13
 Location: Belguim
-Skils: Node.js, Ansible, Discord.js, HTML, CSS
+Skils: Node.js, Ansible, Discord.js, HTML, CSS; Linux
 Learning: React, Networking (CCNA)
 Discord: apennootog#6412
 ```
