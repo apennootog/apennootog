@@ -2,7 +2,7 @@
 > apennootog
 ```
 
-<img align="left" src="Images/neon_wallpaper_cropped.jpg" width="240" /> 
+<img align="left" src="Images/neon_wallpaper_cropped.jpg" width="100" /> 
 
 ```
 apennootog@github
